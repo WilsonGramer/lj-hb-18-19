@@ -4,7 +4,7 @@
 
 Lab safety rules are important to have and need to be followed.
 
-### Reasoning
+### Evidence
 
  - Lab safety rules ensure that experiments and procedures go as planned and do not unexpectedly harm the student or the sample/subject.
  - Students aware of the lab safety rules will know what to do in the event of an emergency.
